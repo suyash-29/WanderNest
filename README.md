@@ -4,7 +4,7 @@
 
 ![WanderNest Logo](./public/images/logo2.png) <!-- If you have a logo, replace the link -->
 
-WanderNest is a clone of the popular vacation rental platform Airbnb. It allows users to discover, book, and list unique accommodations around the world. Whether you're a traveler looking for a cozy home away from home or a host looking to share your space, WanderNest has you covered.
+WanderNest  allows users to discover, book, and list unique accommodations around the world. Whether you're a traveler looking for a cozy home away from home or a host looking to share your space, WanderNest has you covered.
 
 ## Table of Contents
 
