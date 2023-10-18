@@ -21,7 +21,7 @@ Below is a video showing website features take a look yourself- [Demo video](htt
 
 ## Features
 
-List the key features of your project:
+The key features of my project:
 
 - User authentication and registration(with google and github)
 - Search and filter properties based on various criteria(location,type,time )
