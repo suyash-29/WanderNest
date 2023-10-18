@@ -38,11 +38,9 @@ The key features of my project:
 
 ## Getting Started
 
-Provide instructions on how to set up and run your project locally. Include any prerequisites and installation steps.
+you will need to make and **Cloudinary** account to upload images , and keys from github nad google to integrate the login functionality using google and github. 
 
 ### Prerequisites
-
-List any software or libraries that users need to have installed before they can use your project.
 
 - Next.js
 - MongoDB
