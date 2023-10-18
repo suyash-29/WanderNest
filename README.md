@@ -11,17 +11,13 @@ WanderNest  allows users to discover, book, and list unique accommodations aroun
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- 
-- 
-- [License](#license)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+
 
 ## Demo
 
-Below is a video showing website features take a look yourself
-
-![Demo](demo.gif) <!-- Replace with a link to your demo -->
+Below is a video showing website features take a look yourself- [Demo video](https://www.youtube.com/watch?v=lJRM428MdTU) <!-- Replace with a link to your demo -->
 
 ## Features
 
@@ -33,7 +29,12 @@ List the key features of your project:
 - Booking and reservation management
 - trips page to see your past and upcoming trips
 - reservtion page to cancel and see reservation
-- lisintgs page to see your listed houses you can remove them 
+- lisintgs page to see your listed houses you can remove them
+- full responsiveness
+- image upload using cloudinary
+- Guest and owner reservatin cancellation
+- favourites system
+- fetch data in server react components by directly accessing database
 
 ## Getting Started
 
@@ -53,7 +54,7 @@ List any software or libraries that users need to have installed before they can
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/WanderNest.git
+   git clone https://github.com/suyash-29/WanderNest
    ```
 
 2. Change to the project directory:
@@ -71,15 +72,18 @@ List any software or libraries that users need to have installed before they can
 4. Set up environment variables by creating a `.env` file and adding the necessary configurations (database URL, API keys, etc.):
 
    ```plaintext
-   PORT=3000
-   MONGODB_URI=your-mongodb-uri
-   SECRET_KEY=your-secret-key
+   DATABASE_URL=
+   GOOGLE_CLIENT_ID=
+   GOOGLE_CLIENT_SECRET=
+   GITHUB_ID=
+   GITHUB_SECRET=
+   NEXTAUTH_SECRET=
    ```
 
 5. Start the application:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 6. Open your web browser and navigate to `http://localhost:3000` to access WanderNest.
@@ -88,10 +92,4 @@ List any software or libraries that users need to have installed before they can
 
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-Feel free to customize this README template to fit your project's specific details. Providing clear and comprehensive documentation will make it easier for users and contributors to understand and engage with your WanderNest project.
