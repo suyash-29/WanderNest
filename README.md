@@ -4,7 +4,7 @@
 
 ## Demo
 
-Below is a video showing website features take a look yourself- [Demo video](https://www.youtube.com/watch?v=lJRM428MdTU
+Below is a video showing website features take a look yourself- [Demo video](https://www.youtube.com/watch?v=lJRM428MdTU)
 
 ![WanderNest Logo](./public/images/logo2.png) <!-- If you have a logo, replace the link -->
 
